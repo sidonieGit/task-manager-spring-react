@@ -1,6 +1,6 @@
 # Task Manager
 
-Mini application de gestion de tâches avec authentification, développée dans le cadre du test technique. L'utilisateur peut créer un compte, se connecter, puis créer, consulter, modifier, rechercher et supprimer ses propres tâches.
+Mini application de gestion de tâches avec authentification. L'utilisateur peut créer un compte, se connecter, puis créer, consulter, modifier, rechercher et supprimer ses propres tâches.
 
 ## Stack technique
 
